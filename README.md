@@ -15,3 +15,5 @@
 📚 Continuous learner with a passion for building real-world, impactful projects
 
 🌐 Socials:
+https://discord.com/channels/@me
+
