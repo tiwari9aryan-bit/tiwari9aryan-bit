@@ -1,30 +1,62 @@
+<!-- ====== HEADER / BANNER (Optional) ====== -->
+<h1 align="center">Hi 👋, I'm Aryan Tiwari</h1>
+<h3 align="center">B.Tech IT Student | Java, DSA & Web Dev Learner 🚀</h3>
+
+---
+
 ## 😊 About Me
 
-💻 Proficient in React.js, HTML, CSS, and JavaScript for building responsive web applications
+- 💻 Currently learning **Java, DSA & Web Development**
+- 🎯 Goal: **Crack a good internship & placement**
+- 🌱 Exploring **Full Stack & Data Science**
+- 🛠️ Building projects and improving every day
+- 📍 India
 
-🧠 Strong programming foundation in Java, C++, C, and Python
+---
 
-🗄️ Experience working with SQL and relational database management systems
+## 🌐 Socials
 
-📊 Currently learning Data Science, including Python, data analysis, and data visualization
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-tiwari-1601b3285/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaryan_fix)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aryantiwari664)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwari9aryan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiwari9aryan-bit)
 
-⚙️ Solid understanding of Data Structures and Algorithms
+---
 
-🚀 Interested in Full-Stack Development and data-driven application development
+## 💻 Tech Stack
 
-📚 Continuous learner with a passion for building real-world, impactful projects
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🌐 Socials:
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- LinkedIn:  https://www.linkedin.com/in/aryan-tiwari-1601b3285/
-- Email: tiwari9aryan@gmail.com
-- Discord:  https://discord.com/channels/@me
-- Quora: https://in.pinterest.com/tiwari9aryan/_profile/
-- Pinterest: https://in.pinterest.com/tiwari9aryan/_profile/
-- Instagram: https://www.instagram.com/aaryan_fix/?next=%2F
-- X: https://x.com/officialaryan59
-- Youtube: https://www.youtube.com/@aryantiwari664
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠️ Tech Stack
+---
 
-C C++ CSS3 JavaScript Java HTML5 PHP PowerShell Python TypeScript Windows Terminal AWS Firebase Oracle Netlify Google Cloud Bootstrap Express.js NPM Next JS NodeJS React React Native Vite MySQL MongoDB Adobe Adobe Fonts Adobe Photoshop Figma Canva Matplotlib NumPy Pandas Git GitHub Portfolio Postman Power Bi Prettier
+## 📊 GitHub Stats
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiwari9aryan-bit&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwari9aryan-bit&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 Coming soon... (I’m building cool stuff 👨‍💻🔥)
+
+---
+
+⭐️ *“Code. Learn. Improve. Repeat.”*
