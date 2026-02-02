@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ce10474-6eb1-43c0-a4e7-6f35f92902ef" />
 <!-- ====== HEADER / BANNER (Optional) ====== -->
 <h1 align="center">Hi 👋, I'm Aryan Tiwari</h1>
 <h3 align="center">B.Tech IT Student | Java, DSA & Web Dev Learner 🚀</h3>
