@@ -1,3 +1,4 @@
+![Banner](your-image-name.png)
 <!-- ====== HEADER / BANNER (Optional) ====== -->
 <h1 align="center">Hi 👋, I'm Aryan Tiwari</h1>
 <h3 align="center">B.Tech IT Student | Java, DSA & Web Dev Learner 🚀</h3>
