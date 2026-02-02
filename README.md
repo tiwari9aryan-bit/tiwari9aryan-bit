@@ -14,7 +14,7 @@
 
 📚 Continuous learner with a passion for building real-world, impactful projects
 
-## 🌐 Connect with Me
+## 🌐 Socials:
 
 - LinkedIn:  https://www.linkedin.com/in/aryan-tiwari-1601b3285/
 - Email: tiwari9aryan@gmail.com
@@ -27,6 +27,4 @@
 
 ## 🛠️ Tech Stack
 
-- Languages: Java, C, Python  
-- Web: HTML, CSS, JavaScript  
-- Tools: Git, GitHub, VS Code  
+C C++ CSS3 JavaScript Java HTML5 PHP PowerShell Python TypeScript Windows Terminal AWS Firebase Oracle Netlify Google Cloud Bootstrap Express.js NPM Next JS NodeJS React React Native Vite MySQL MongoDB Adobe Adobe Fonts Adobe Photoshop Figma Canva Matplotlib NumPy Pandas Git GitHub Portfolio Postman Power Bi Prettier
