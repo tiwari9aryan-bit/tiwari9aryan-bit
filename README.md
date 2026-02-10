@@ -7,7 +7,7 @@
 ## 😊 About Me
 
 - 💻 Currently learning **Java, DSA & Web Development**
-- 🎯 Goal: **Crack a good internship & placement**
+- 🎯 Goal: **dive into ML**
 - 🌱 Exploring **Full Stack & Data Science**
 - 🛠️ Building projects and improving every day
 - 📍 India
